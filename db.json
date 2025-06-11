@@ -1,0 +1,430 @@
+{
+  "user": [
+    {
+      "id": "181f",
+      "firstname": "harmit",
+      "lastname": "donda",
+      "email": "hd@gmail.com",
+      "phone": "9999999999",
+      "address": "palitana",
+      "city": "paliytana",
+      "pincode": "888888",
+      "country": "india",
+      "password": "222222!@"
+    },
+    {
+      "id": "7fb1",
+      "firstname": "yyy",
+      "lastname": "uuu",
+      "email": "yyy@gmail.com",
+      "phone": "9999999999",
+      "address": "palitana",
+      "city": "bhavnagar",
+      "pincode": "888888",
+      "country": "india",
+      "password": "333333!"
+    }
+  ],
+  "product": [
+    {
+      "id": "p_1",
+      "pname": "Wooden Chair",
+      "Categories": "Chair",
+      "price": 500,
+      "size": "M",
+      "color": "Red",
+      "description": "Best chair with a capacity of 150kg",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/1100x1210/peshtigo-sheesham-wood-arm-chair-in-provincial-teak-finish-peshtigo-sheesham-wood-arm-chair-in-provi-warmva.jpg"
+    },
+    {
+      "id": "p_2",
+      "pname": "Plastic Chair",
+      "Categories": "Chair",
+      "price": 300,
+      "size": "S",
+      "color": "Blue",
+      "description": "Lightweight plastic chair for indoor use",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2024/2/384268383/RE/DZ/OE/8073796/plastic-chair.jpg"
+    },
+    {
+      "id": "p_3",
+      "pname": "Office Chair",
+      "Categories": "Chair",
+      "price": 2500,
+      "size": "Adjustable",
+      "color": "Black",
+      "description": "Comfortable ergonomic office chair",
+      "image": "https://www.planetoffice.in/wp-content/webp-express/webp-images/uploads/2024/12/Krabee.png.webp"
+    },
+    {
+      "id": "p_4",
+      "pname": "Recliner Chair",
+      "Categories": "Chair",
+      "price": 6000,
+      "size": "L",
+      "color": "Brown",
+      "description": "Luxurious recliner chair for relaxation",
+      "image": "https://thesleepcompany.in/cdn/shop/files/Artboard_1_copy_21_200x_118d56ec-04c7-4bc6-9f83-c4a1ff143fbb.webp?v=1739733143&width=1100"
+    },
+    {
+      "id": "p_5",
+      "pname": "Rocking Chair",
+      "Categories": "Chair",
+      "price": 4000,
+      "size": "M",
+      "color": "White",
+      "description": "Classic wooden rocking chair",
+      "image": "https://m.media-amazon.com/images/I/51CHLupbF8L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "p_6",
+      "pname": "King Size Bed",
+      "Categories": "Bed",
+      "price": 12000,
+      "size": "King",
+      "color": "Brown",
+      "description": "Comfortable wooden bed with storage",
+      "image": "https://ik.imagekit.io/2xkwa8s1i/img/npl_modified_images/Plus_Mattress/Ortho_plus_01.jpg?tr=w-828"
+    },
+    {
+      "id": "p_7",
+      "pname": "Queen Size Bed",
+      "Categories": "Bed",
+      "price": 10000,
+      "size": "Queen",
+      "color": "Beige",
+      "description": "Stylish queen-sized bed with headboard",
+      "image": "https://blog.woodenstreet.com/images/data/image_upload/17148268921710741118bed-banner.jpg"
+    },
+    {
+      "id": "p_8",
+      "pname": "Bunk Bed",
+      "Categories": "Bed",
+      "price": 9000,
+      "size": "Twin",
+      "color": "White",
+      "description": "Durable bunk bed for kids and adults",
+      "image": "https://m.media-amazon.com/images/I/51TXH+eWsqL._SY300_SX300_.jpg"
+    },
+    {
+      "id": "p_9",
+      "pname": "Sofa Bed",
+      "Categories": "Bed",
+      "price": 15000,
+      "size": "Double",
+      "color": "Grey",
+      "description": "Convertible sofa bed with storage",
+      "image": "https://www.ikea.com/in/en/images/products/paerup-2-seat-sofa-bed-vissle-grey__0950171_pe800185_s5.jpg?f=s"
+    },
+    {
+      "id": "p_10",
+      "pname": "Foldable Bed",
+      "Categories": "Bed",
+      "price": 5000,
+      "size": "Single",
+      "color": "Black",
+      "description": "Portable foldable bed for space-saving",
+      "image": "https://www.loomandneedles.com/images/product/161/folding-and-tri-fold-memory-foam1-mattress1.jpg"
+    },
+    {
+      "id": "p_11",
+      "pname": "Leather Sofa",
+      "Categories": "Sofa",
+      "price": 8000,
+      "size": "L",
+      "color": "Black",
+      "description": "Premium leather sofa with modern design",
+      "image": "https://www.threesixty.life/cdn/shop/files/GenuineLeatherChesterfieldThreeSeaterSofaBrown.jpg?v=1739616129&width=600"
+    },
+    {
+      "id": "p_12",
+      "pname": "Fabric Sofa",
+      "Categories": "Sofa",
+      "price": 7500,
+      "size": "M",
+      "color": "Blue",
+      "description": "Comfortable fabric sofa for living room",
+      "image": "https://torqueindia.co/cdn/shop/products/christopher-5-seater-l-shape-premium-fabric-sofa-with-ottoman-688842.jpg?v=1686747398&width=1445"
+    },
+    {
+      "id": "p_13",
+      "pname": "Recliner Sofa",
+      "Categories": "Sofa",
+      "price": 12000,
+      "size": "L",
+      "color": "Brown",
+      "description": "Electric recliner sofa with soft cushions",
+      "image": "https://thesleepcompany.in/cdn/shop/files/Artboard_56_copy_4_200x_4e159bb0-1127-40d7-bfc6-8f65c36409a7.webp?v=1739733145&width=1100"
+    },
+    {
+      "id": "p_14",
+      "pname": "Sectional Sofa",
+      "Categories": "Sofa",
+      "price": 18000,
+      "size": "XL",
+      "color": "Grey",
+      "description": "Spacious sectional sofa for family seating",
+      "image": "https://m.media-amazon.com/images/I/5177L14-QJL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "p_15",
+      "pname": "L-Shaped Sofa",
+      "Categories": "Sofa",
+      "price": 13000,
+      "size": "L",
+      "color": "Green",
+      "description": "Modern L-shaped sofa for corner spaces",
+      "image": "https://cdn.shopaccino.com/plusone/products/grey-look1600x1117-900390_l.jpg?v=530"
+    },
+    {
+      "id": "p_16",
+      "pname": "Wall Clock",
+      "Categories": "WallWatch",
+      "price": 1500,
+      "size": "Standard",
+      "color": "Gold",
+      "description": "Classic wall clock with a silent mechanism",
+      "image": "https://funkytradition.com/cdn/shop/files/funkytradition-pearl-multicolor-peacock-pendulum-wall-clock-watch-decor-for-home-office-and-gifts-55-cm-clocks-755_b8e9bbc5-9bdd-42a0-b6e2-1e0eeeff259a.jpg?v=1726992730"
+    },
+    {
+      "id": "p_17",
+      "pname": "Digital Wall Clock",
+      "Categories": "WallWatch",
+      "price": 2000,
+      "size": "Large",
+      "color": "Black",
+      "description": "LED digital wall clock with alarm",
+      "image": "https://m.media-amazon.com/images/I/41UlxF8YCiL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "p_18",
+      "pname": "Wooden Wall Clock",
+      "Categories": "WallWatch",
+      "price": 1800,
+      "size": "Medium",
+      "color": "Brown",
+      "description": "Handcrafted wooden wall clock",
+      "image": "https://funkytradition.com/cdn/shop/files/funkytradition-decorative-retro-anchor-ship-steering-shape-plastic-pendulum-wall-clock-for-home-office-decor-and-gifts-790_d3ab1479-b5ee-49c8-8d01-f154f01536b3.jpg?crop=center&height=1024&v=1726996642&width=768"
+    },
+    {
+      "id": "p_19",
+      "pname": "Antique Wall Clock",
+      "Categories": "WallWatch",
+      "price": 5000,
+      "size": "Large",
+      "color": "Bronze",
+      "description": "Vintage-style wall clock for decor",
+      "image": "https://5.imimg.com/data5/PD/WB/MY-7894402/antique-wall-clocks.jpg"
+    },
+    {
+      "id": "p_20",
+      "pname": "Minimalist Wall Clock",
+      "Categories": "WallWatch",
+      "price": 1200,
+      "size": "Small",
+      "color": "White",
+      "description": "Simple modern wall clock",
+      "image": "https://daintylittleshop.com/cdn/shop/files/9CC64268-1CAE-45C1-BCF1-6ED5D561C736.jpg?v=1714238505"
+    },
+    {
+      "id": "p_21",
+      "pname": "Dining Table",
+      "Categories": "Table",
+      "price": 7000,
+      "size": "6-Seater",
+      "color": "Dark Brown",
+      "description": "Elegant wooden dining table for family meals",
+      "image": "https://ekbotefurniture.com/wp-content/uploads/2023/11/IMG_4209.jpg"
+    },
+    {
+      "id": "p_22",
+      "pname": "Coffee Table",
+      "Categories": "Table",
+      "price": 3000,
+      "size": "Small",
+      "color": "White",
+      "description": "Stylish coffee table with glass top",
+      "image": "https://ikiru.in/cdn/shop/products/buy-center-table-wood-and-black-metal-center-table-or-coffee-table-for-living-room-by-the-home-dekor-on-ikiru-online-store-2_1052x700.jpg?v=1739198571"
+    },
+    {
+      "id": "p_23",
+      "pname": "Study Table",
+      "Categories": "Table",
+      "price": 5000,
+      "size": "M",
+      "color": "Black",
+      "description": "Spacious study table with drawers",
+      "image": "https://ik.imagekit.io/2xkwa8s1i/img/tv-units/WSTSAGER1/1.jpg?tr=w-828"
+    },
+    {
+      "id": "p_24",
+      "pname": "Folding Table",
+      "Categories": "Table",
+      "price": 2500,
+      "size": "Adjustable",
+      "color": "Grey",
+      "description": "Compact and portable folding table",
+      "image": "https://m.media-amazon.com/images/I/41in5SiZfAL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "p_25",
+      "pname": "Console Table",
+      "Categories": "Table",
+      "price": 4500,
+      "size": "M",
+      "color": "Beige",
+      "description": "Sleek console table for home decor",
+      "image": "https://m.media-amazon.com/images/I/51X2T0OHhZL._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "p_1",
+      "pname": "Wooden Chair",
+      "Categories": "Chair",
+      "price": 500,
+      "size": "M",
+      "color": "Red",
+      "description": "Best chair with a capacity of 150kg",
+      "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/1100x1210/peshtigo-sheesham-wood-arm-chair-in-provincial-teak-finish-peshtigo-sheesham-wood-arm-chair-in-provi-warmva.jpg",
+      "uid": "181f",
+      "quantity": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "3670",
+      "userId": "7fb1",
+      "items": [
+        {
+          "id": "p_9",
+          "pname": "Sofa Bed",
+          "Categories": "Bed",
+          "price": 15000,
+          "size": "Double",
+          "color": "Grey",
+          "description": "Convertible sofa bed with storage",
+          "image": "https://www.ikea.com/in/en/images/products/paerup-2-seat-sofa-bed-vissle-grey__0950171_pe800185_s5.jpg?f=s",
+          "uid": "7fb1",
+          "quantity": 1
+        },
+        {
+          "id": "p_1",
+          "pname": "Wooden Chair",
+          "Categories": "Chair",
+          "price": 500,
+          "size": "M",
+          "color": "Red",
+          "description": "Best chair with a capacity of 150kg",
+          "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/1100x1210/peshtigo-sheesham-wood-arm-chair-in-provincial-teak-finish-peshtigo-sheesham-wood-arm-chair-in-provi-warmva.jpg",
+          "uid": "7fb1",
+          "quantity": 2
+        }
+      ],
+      "address": "surat",
+      "paymentMethod": "Cash on Delivery",
+      "totalAmount": 16100,
+      "date": "2025-03-19T04:35:56.252Z"
+    },
+    {
+      "id": "7a44",
+      "userId": "7fb1",
+      "items": [
+        {
+          "id": "p_1",
+          "pname": "Wooden Chair",
+          "Categories": "Chair",
+          "price": 500,
+          "size": "M",
+          "color": "Red",
+          "description": "Best chair with a capacity of 150kg",
+          "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/1100x1210/peshtigo-sheesham-wood-arm-chair-in-provincial-teak-finish-peshtigo-sheesham-wood-arm-chair-in-provi-warmva.jpg",
+          "uid": "7fb1",
+          "quantity": 2
+        },
+        {
+          "id": "p_6",
+          "pname": "King Size Bed",
+          "Categories": "Bed",
+          "price": 12000,
+          "size": "King",
+          "color": "Brown",
+          "description": "Comfortable wooden bed with storage",
+          "image": "https://ik.imagekit.io/2xkwa8s1i/img/npl_modified_images/Plus_Mattress/Ortho_plus_01.jpg?tr=w-828",
+          "uid": "7fb1",
+          "quantity": 2
+        }
+      ],
+      "address": "yyyyy",
+      "paymentMethod": "Cash on Delivery",
+      "totalAmount": 25100,
+      "date": "2025-03-19T04:36:48.680Z"
+    },
+    {
+      "id": "a986",
+      "userId": "181f",
+      "items": [
+        {
+          "id": "p_1",
+          "pname": "Wooden Chair",
+          "Categories": "Chair",
+          "price": 500,
+          "size": "M",
+          "color": "Red",
+          "description": "Best chair with a capacity of 150kg",
+          "image": "https://ii1.pepperfry.com/media/catalog/product/p/e/1100x1210/peshtigo-sheesham-wood-arm-chair-in-provincial-teak-finish-peshtigo-sheesham-wood-arm-chair-in-provi-warmva.jpg",
+          "quantity": 3
+        }
+      ],
+      "address": "lkjkj;kj;",
+      "paymentMethod": "Cash on Delivery",
+      "totalAmount": 1600,
+      "date": "2025-04-08T04:43:11.585Z"
+    },
+    {
+      "id": "e143",
+      "userId": "181f",
+      "items": [
+        {
+          "id": "p_3",
+          "pname": "Office Chair",
+          "Categories": "Chair",
+          "price": 2500,
+          "size": "Adjustable",
+          "color": "Black",
+          "description": "Comfortable ergonomic office chair",
+          "image": "https://www.planetoffice.in/wp-content/webp-express/webp-images/uploads/2024/12/Krabee.png.webp",
+          "uid": "181f",
+          "quantity": 2
+        },
+        {
+          "id": "p_11",
+          "pname": "Leather Sofa",
+          "Categories": "Sofa",
+          "price": 8000,
+          "size": "L",
+          "color": "Black",
+          "description": "Premium leather sofa with modern design",
+          "image": "https://www.threesixty.life/cdn/shop/files/GenuineLeatherChesterfieldThreeSeaterSofaBrown.jpg?v=1739616129&width=600",
+          "quantity": 1
+        },
+        {
+          "id": "p_21",
+          "pname": "Dining Table",
+          "Categories": "Table",
+          "price": 7000,
+          "size": "6-Seater",
+          "color": "Dark Brown",
+          "description": "Elegant wooden dining table for family meals",
+          "image": "https://ekbotefurniture.com/wp-content/uploads/2023/11/IMG_4209.jpg",
+          "uid": "181f",
+          "quantity": 1
+        }
+      ],
+      "address": "",
+      "paymentMethod": "Cash on Delivery",
+      "totalAmount": 20100,
+      "date": "2025-04-28T07:28:45.787Z"
+    }
+  ]
+}
